@@ -52,7 +52,7 @@ events();
 
 
 var typed = new Typed(".type",{
-  strings:[ "bootcamp 2022", "SDG 16"],
+  strings:[  "innovation","bootcamp", "SDG 16"],
   typeSpeed:100,
   backSpeed:70,
   loop:true,
